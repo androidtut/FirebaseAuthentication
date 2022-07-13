@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "452684630684",
+    "project_id": "notesapp-daf0d",
+    "storage_bucket": "notesapp-daf0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452684630684:android:aee9edd7428cb17c3ffb59",
+        "android_client_info": {
+          "package_name": "com.example.bestnoteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452684630684-uq595kvki1m7ka89noi0f0ub7ujuspun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBihp_xJzecvjMfirUc1SOHqh5XGdMtwtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452684630684-uq595kvki1m7ka89noi0f0ub7ujuspun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

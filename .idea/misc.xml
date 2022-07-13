@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/BestNoteApp/app/src/main/res/drawable/download.xml" value="0.1" />
+        <entry key="..\:/Users/user/BestNoteApp/app/src/main/res/drawable/ic_baseline_event_note_24.xml" value="0.1" />
+        <entry key="..\:/Users/user/BestNoteApp/app/src/main/res/drawable/pdfimg.xml" value="0.1" />
+        <entry key="..\:/Users/user/BestNoteApp/app/src/main/res/drawable/sample_background.xml" value="0.1945" />
+        <entry key="..\:/Users/user/BestNoteApp/app/src/main/res/drawable/sample_bottomsheet.xml" value="0.1965" />
+        <entry key="..\:/Users/user/BestNoteApp/app/src/main/res/drawable/sample_button.xml" value="0.1945" />
+        <entry key="..\:/Users/user/BestNoteApp/app/src/main/res/drawable/sample_card.xml" value="0.1945" />
+        <entry key="..\:/Users/user/BestNoteApp/app/src/main/res/drawable/sample_cards.xml" value="0.1" />
+        <entry key="..\:/Users/user/BestNoteApp/app/src/main/res/layout-w1240dp/content_scrolling.xml" value="0.1" />
+        <entry key="..\:/Users/user/BestNoteApp/app/src/main/res/layout-w936dp/content_scrolling.xml" value="0.14444444444444443" />
+        <entry key="..\:/Users/user/BestNoteApp/app/src/main/res/layout/activity_details_page.xml" value="0.15" />
+        <entry key="..\:/Users/user/BestNoteApp/app/src/main/res/layout/activity_drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/BestNoteApp/app/src/main/res/layout/activity_forgot_password.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/BestNoteApp/app/src/main/res/layout/activity_main.xml" value="0.15" />
+        <entry key="..\:/Users/user/BestNoteApp/app/src/main/res/layout/activity_notesactivity.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/BestNoteApp/app/src/main/res/layout/activity_pdf_views.xml" value="0.1" />
+        <entry key="..\:/Users/user/BestNoteApp/app/src/main/res/layout/activity_scrolling_details.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/BestNoteApp/app/src/main/res/layout/activity_signup.xml" value="0.18" />
+        <entry key="..\:/Users/user/BestNoteApp/app/src/main/res/layout/app_bar_drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/BestNoteApp/app/src/main/res/layout/bottom_sheet_dialog_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/BestNoteApp/app/src/main/res/layout/content_drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/BestNoteApp/app/src/main/res/layout/content_scrolling.xml" value="0.15" />
+        <entry key="..\:/Users/user/BestNoteApp/app/src/main/res/layout/fragment_about.xml" value="0.1" />
+        <entry key="..\:/Users/user/BestNoteApp/app/src/main/res/layout/fragment_bottom_sheet.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/BestNoteApp/app/src/main/res/layout/fragment_contact.xml" value="0.1" />
+        <entry key="..\:/Users/user/BestNoteApp/app/src/main/res/layout/fragment_gallery.xml" value="0.1" />
+        <entry key="..\:/Users/user/BestNoteApp/app/src/main/res/layout/fragment_home.xml" value="0.16944444444444445" />
+        <entry key="..\:/Users/user/BestNoteApp/app/src/main/res/layout/fragment_slideshow.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/BestNoteApp/app/src/main/res/layout/nav_header_drawer.xml" value="0.16944444444444445" />
+        <entry key="..\:/Users/user/BestNoteApp/app/src/main/res/layout/progress_dialog.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/BestNoteApp/app/src/main/res/layout/sample_book.xml" value="0.15" />
+        <entry key="..\:/Users/user/BestNoteApp/app/src/main/res/layout/sample_notes.xml" value="0.18" />
+        <entry key="..\:/Users/user/BestNoteApp/app/src/main/res/layout/sample_userprofile.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/BestNoteApp/app/src/main/res/menu/activity_main_drawer.xml" value="0.1" />
+        <entry key="..\:/Users/user/BestNoteApp/app/src/main/res/menu/drawer.xml" value="0.16944444444444445" />
+        <entry key="..\:/Users/user/BestNoteApp/app/src/main/res/menu/menu_scrolling_details.xml" value="0.1925925925925926" />
+        <entry key="..\:/Users/user/BestNoteApp/app/src/main/res/menu/menuitem.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
